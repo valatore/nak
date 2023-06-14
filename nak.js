@@ -1,4 +1,4 @@
 const vay = 'Vay';
-const age = 26;
+const age = 29;
 
 console.log(`hello ${vay}. You are ${age}`);
